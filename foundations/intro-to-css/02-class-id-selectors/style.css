@@ -1,0 +1,26 @@
+.NumberOne {
+    background-color: #ae4665;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#NumberTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.NumberThree {
+    background-color: #ae4665;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#NumberFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.NumberFive {
+    background-color: #ae4665;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
